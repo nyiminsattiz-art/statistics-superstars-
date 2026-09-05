@@ -1,0 +1,7 @@
+Column,Statistic,P-value,Normal?,Interpretation
+sepal length (cm),0.9755534975495012,0.0092335208988023,False,Not normal
+sepal width (cm),0.9834272888538924,0.0700854511586936,True,Normal
+petal length (cm),0.8767887598387271,8.635086956121206e-10,False,Not normal
+petal width (cm),0.9019333201059457,1.8529859538550466e-08,False,Not normal
+sepal_area,0.9771434082439674,0.013772108410083155,False,Not normal
+petal_area,0.9046928437166317,2.6695065886941102e-08,False,Not normal
