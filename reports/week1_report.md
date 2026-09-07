@@ -102,11 +102,9 @@ The Iris dataset contains measurements of 150 iris flowers from three species (s
 
 ### Problems Identified:
 - Only `sepal width (cm)` showed statistically normal distribution (p > 0.05); all other numeric variables were not normally distributed, meaning non-parametric tests may be more appropriate for Week 2 hypothesis testing.
-- [Add any other issues your team noticed]
 
 ### Recommendations:
 - Consider non-parametric statistical tests (e.g. Mann-Whitney U, Kruskal-Wallis) given the non-normal distributions.
-- [Add other suggestions for Week 2]
 
 ---
 
