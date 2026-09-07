@@ -94,7 +94,7 @@ The Iris dataset contains measurements of 150 iris flowers from three species (s
 
 1. **Key Finding 1**: [the three species have different ranges in measurements, particularly in the lengths and widths of the petals – setosa has smaller petals compared to versicolor and virginica, whereas the measurements of the sepals overlap among the three species. It indicates that petal measurements are more discriminating than sepal measurements.]
 2. **Key Finding 2**: [The correlation between petal length, petal width and petal_area is very high (more than 0.95), but sepal measurements have low correlations with all the other variables. Hence, it can be inferred that petal attributes have a major role to play for any further classification or prediction.]
-3. **Key Finding 3**: [Since almost none of the variables are normally distributed (only sepal width passed), Week 2 could focus on non-parametric hypothesis tests (like Mann-Whitney U or Kruskal-Wallis) to compare species, rather than tests that assume normality (like a standard t-test).]
+3. **Key Finding 3**: [As most of the variables are not normally distributed (the only exception being the sepal width variable), then Week 2 should concentrate on non-parametric testing for hypotheses, such as Mann Whitney U and Kruskal Wallis tests.]
 
 ---
 
