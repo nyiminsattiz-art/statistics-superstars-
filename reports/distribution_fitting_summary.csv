@@ -1,0 +1,7 @@
+column,best_fit,p_value,good_fit
+sepal length (cm),Gamma,0.2476579874081285,True
+sepal width (cm),Gamma,0.17473402471311583,True
+petal length (cm),Gamma,1.4063199484015363e-05,False
+petal width (cm),Gamma,0.0002044486173821492,False
+sepal_area,Gamma,0.9101998538401239,True
+petal_area,Gamma,7.342058230679012e-06,False
