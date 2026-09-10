@@ -1,0 +1,4 @@
+test,variable,statistic,p_value,significant
+One-sample t-test,sepal length (cm),5.048397556807858,1.290760456681953e-06,True
+Independent t-test,petal length (cm): setosa vs versicolor,-39.492719391538095,5.404910513441767e-62,True
+One-way ANOVA,petal length (cm) by species,1176.842427377746,8.956422528233572e-91,True
